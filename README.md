@@ -1,0 +1,2 @@
+# jordi
+ionic project
